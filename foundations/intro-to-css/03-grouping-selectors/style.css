@@ -1,0 +1,14 @@
+.affir-btn {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.neg-btn {
+    background-color: rgb(255, 255, 0);
+}
+
+.affir-btn,
+.neg-btn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
